@@ -1,0 +1,1 @@
+Example of using the Drag and Drop API. Check screenshot for details.
